@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 0  # Let embedded MongoDB choose a random port
+      database: test_website_database
